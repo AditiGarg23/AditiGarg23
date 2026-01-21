@@ -22,7 +22,7 @@
 
 ## ✨ Typing Animation
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi+Garg;Web+Developer+%7C+Frontend+Engineer;React+%7C+Tailwind+%7C+Python+%7C+Node)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi+Garg;Web+Developer+%7C+Python+Developer;React+%7C+Tailwind)](https://git.io/typing-svg)
 
 ---
 
@@ -38,7 +38,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,tailwind,git,github,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,python,flask,mysql,git,github" />
 </p>
 
 ---
