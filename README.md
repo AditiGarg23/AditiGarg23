@@ -13,7 +13,7 @@
 - 🎯 Crafting responsive UIs, elegant code, and scalable systems  
 - 💼 Open to **full-time opportunities** as Python and Web developer
 - 💡 Problem Solver who loves turning complex challenges into elegant solutions
-- 🌐 Portfolio:  [https://portfolio-thvr.vercel.app/](https://portfolio-thvr.vercel.app/) <!-- Replace with actual link -->
+- 🌐 Portfolio:  [AG_Portfolio](https://portfolio-thvr.vercel.app/) <!-- Replace with actual link -->
 - 📍 Currently in 🏙 India  
 
 </td>
