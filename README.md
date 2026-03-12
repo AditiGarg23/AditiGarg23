@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World, I'm Aditi Garg</h1>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi+Garg;Web+Developer+%7C+Python+Developer;React+%7C+Tailwind)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi+Garg;Web+Developer+%7C+Python+Developer;React+%7C+Tailwind" />
 </div>
 
 <table>
